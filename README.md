@@ -1,2 +1,3 @@
 # localhower
-A simple todo-list app with local, text-file based storage. Best used in conjunction with syncthing.
+A simple todo-list app based on the Eisenhower-matrix plus Inbox. With local, text-file based storage for easy access and export. 
+I personally use it in conjunction with syncthing.
